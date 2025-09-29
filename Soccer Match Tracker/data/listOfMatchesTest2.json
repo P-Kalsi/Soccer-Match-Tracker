@@ -1,0 +1,29 @@
+{"Soccer Matches": [{
+    "Away Team": "2",
+    "Home Team": "1",
+    "Match Details": {
+        "Assists": [{
+            "Player": {
+                "Team": "",
+                "Name": "B"
+            },
+            "Minute": 1
+        }],
+        "Goals": [{
+            "Player": {
+                "Team": "",
+                "Name": "B"
+            },
+            "Minute": 1
+        }],
+        "Cards": [{
+            "Player": {
+                "Team": "",
+                "Name": "B"
+            },
+            "Minute": 1,
+            "cardType": "yellow"
+        }]
+    },
+    "Date": "2000-01-01"
+}]}
