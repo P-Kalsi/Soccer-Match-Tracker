@@ -1,4 +1,3 @@
-# My Personal Project
 
 ## Soccer Match Tracker
 This java application will allow 
